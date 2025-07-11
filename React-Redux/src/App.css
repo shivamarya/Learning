@@ -36,3 +36,37 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+.cart-wrapper {
+  width: 250px;
+  height: auto;
+  border: 1px solid #ccc;
+  padding: 15px;
+}
+
+.cart-wrapper img {
+  width: 100px;
+}
+
+.cart-wrapper button{
+  background: #e01c1c;
+  color: #fff;
+  border: 1px solid;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.text-wrapper{
+  font-size: 20px;
+  font-weight: 600;
+  margin: 10px auto;
+}
+
+.add-to-cart img{
+  width: 100px;
+  position: absolute;
+  right: 1%;
+  top: 1%;
+}
